@@ -1,0 +1,25 @@
+{
+  "name": "1Campus_nodedsa",
+  "version": "0.0.1",
+  "description": "ischool dsa client for 1Campus",
+  "main": "app.js",
+  "author": {
+    "name": "ischool.com.tw",
+    "email": "elvira.chen@ischool.com.tw"
+  },
+  "dependencies": {
+    "nodexml": "~1.0.2",
+    "request": "~2.36.0",
+    "nodedsa": "~1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yaqxyaqx/1Campus_nodeDSA.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yaqxyaqx/1Campus_nodeDSA/issues"
+  },
+  "homepage": "https://github.com/yaqxyaqx/1Campus_nodeDSA",
+  "readmeFilename": "README.md"
+}
