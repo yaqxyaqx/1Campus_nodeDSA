@@ -1,6 +1,6 @@
 {
   "name": "1campus_nodedsa",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ischool dsa client for 1Campus",
   "main": "app.js",
   "author": {

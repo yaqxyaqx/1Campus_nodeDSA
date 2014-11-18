@@ -2,7 +2,7 @@
 Sample
 ----
 ```
-var conn = require('1Campus_nodeDSA').open(dsns/contract, accesstoken);
+var conn = require('1campus_nodedsa').open(dsns/contract, accesstoken);
 conn.send({
 	service:'',
 	body:{},
@@ -19,5 +19,5 @@ MIT
 
 Version
 ----
-0.0.1
+0.0.2
 
