@@ -1,6 +1,6 @@
 {
   "name": "1campus_nodedsa",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "ischool dsa client for 1Campus",
   "main": "app.js",
   "author": {
@@ -8,9 +8,9 @@
     "email": "elvira.chen@ischool.com.tw"
   },
   "dependencies": {
-    "nodexml": "~1.0.2",
     "request": "~2.36.0",
-    "nodedsa": "~1.0.1"
+    "nodexml": "*",
+    "nodedsa": "*"
   },
   "repository": {
     "type": "git",
