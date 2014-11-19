@@ -1,4 +1,4 @@
-﻿# 1Campus_nodeDSA
+﻿# 1campus_nodedsa
 Sample
 ----
 ```
@@ -19,5 +19,5 @@ MIT
 
 Version
 ----
-0.0.2
+0.0.3
 

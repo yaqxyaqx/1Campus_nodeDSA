@@ -40,10 +40,7 @@ module.exports.open = function (accessPoint, token) {
                     contents.push(key + ':' + req.body[key]);
                 }
                 request.get({
-                    // url: "http://dsns.1campus.net/1know/sakura/" + req.service + "?stt=PassportAccessToken&AccessToken=" + token
-                    //     +(contents.length ? '&parser=spliter&content=' + contents.join('&') : ''),
-
-                    url: "http://test.1know.net/1campus/sakura/" + req.service + "?stt=PassportAccessToken&AccessToken=" + token
+                    url: "http://dsns.1campus.net/1know/sakura/" + req.service + "?stt=PassportAccessToken&AccessToken=" + token
                         +(contents.length ? '&parser=spliter&content=' + contents.join('&') : ''),
                     rejectUnauthorized: false
                 },
